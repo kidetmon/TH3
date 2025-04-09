@@ -3,5 +3,5 @@
 
 ![Hinh anh 01](location.jpg)
 ![Hinh anh 02](login.jpg)
-![Hinh anh 03](signup.jpg)
+![Hinh anh 03](Signup.jpg)
 
